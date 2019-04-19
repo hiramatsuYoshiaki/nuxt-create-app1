@@ -1,6 +1,22 @@
 import pkg from './package'
 
+  
+
 export default {
+  /*
+  ** GitHub Pages add2019.4.18 yoshiak
+  */
+//  const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+//   router: {
+//     base: '/nuxt-create-app1/'
+//   }
+//   } : {}
+  
+  router: {
+    base: '/nuxt-create-app1/'
+  },
+  
+
   mode: 'universal',
 
   /*
@@ -67,5 +83,6 @@ export default {
         })
       }
     }
-  }
+  },
+  
 }
