@@ -3,22 +3,22 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-app1
+        h-works
       </h1>
       <h2 class="subtitle">
-        My excellent Nuxt.js project
+         Nuxt.js project
       </h2>
       <div class="links">
-        <a
+        <!-- <a
           href="https://nuxtjs.org/"
           target="_blank"
           class="button--green"
-        >Documentation</a>
+        >Documentation</a> -->
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/hiramatsuYoshiaki/nuxt-create-app1"
           target="_blank"
           class="button--grey"
-        >GitHub</a>
+        >nuxt-create-app1</a>
       </div>
     </div>
   </section>
