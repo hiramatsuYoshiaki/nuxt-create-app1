@@ -11,12 +11,9 @@ export default {
 //     base: '/nuxt-create-app1/'
 //   }
 //   } : {}
-  
   router: {
     base: '/nuxt-create-app1/'
   },
-  
-
   mode: 'universal',
 
   /*
@@ -30,7 +27,7 @@ export default {
       { hid: 'description', name: 'description', content: pkg.description }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/git subtree push/favicon.ico' }
     ]
   },
 
