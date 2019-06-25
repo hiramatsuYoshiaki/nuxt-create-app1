@@ -69,3 +69,11 @@ npm run generate
 `
 npm run deploy
 `
+6. GitHubのsettignからGitHub Pagesのsouceをgh-page branchに変更する
+`
+gh-page branch
+`
+7. GitHub Pagesを確認する
+`
+https://hiramatsuyoshiaki.github.io/nuxt-create-app1/.
+`
